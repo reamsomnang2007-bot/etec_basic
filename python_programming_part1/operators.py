@@ -1,0 +1,5 @@
+print(15 + 15)
+print(30 - 15)
+print(10 * 20)
+print(30 / 5)
+print(10 % 2)
