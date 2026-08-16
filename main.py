@@ -1,0 +1,8 @@
+print("-----[ Information ]-----")
+print("Name: Ream Somnang")
+print("Gender: Male")
+print("Age: 18")
+print("Phone number: 0972264786")
+print("Email: reamsomnang2007@gmail.com")
+print("Address: Phnom Penh")
+print("-------------------------")
