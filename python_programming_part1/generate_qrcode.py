@@ -1,10 +1,10 @@
-import qrcode
+import qrcode_generate
 
 url = input("Enter the url: ")
 file_name = input("Enter the file_name: ")
 file_name = f"{file_name}.png"
 
-qr = qrcode.QRCode(border=5, box_size=10)
+qr = qrcode_generate.QRCode(border=5, box_size=10)
 qr.add_data(url)
 qr.make()
 
